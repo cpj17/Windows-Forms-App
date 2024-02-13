@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<UserConfig>
+  <t1>
+     <table_name>Sheet1</table_name>
+	 <export_all_Col_flag>N</export_all_Col_flag>
+  </t1>
+  <!-- configure your data for the below table t2 -->
+  <t2>
+     <excel_column_name>Item Desription</excel_column_name>
+     <target_name>BEI_ID_DESC</target_name>
+     <target_data_type>STRING</target_data_type>
+     <list_view_position>C002</list_view_position>
+  </t2>
+  <t2>
+     <excel_column_name>Item Code</excel_column_name>
+     <target_name>BEI_ID</target_name>
+     <target_data_type>STRING</target_data_type>
+     <list_view_position>C001</list_view_position>
+  </t2>
+  <t2>
+     <excel_column_name>Material Group</excel_column_name>
+     <target_name>MENU_ID</target_name>
+     <target_data_type>STRING</target_data_type>
+     <list_view_position>C003</list_view_position>
+  </t2>
+  <t2>
+     <excel_column_name>Material Group Description</excel_column_name>
+     <target_name>MENU_NAME</target_name>
+     <target_data_type>STRING</target_data_type>
+     <list_view_position>C004</list_view_position>
+  </t2>
+  <t2>
+     <excel_column_name>Price Pook selling price</excel_column_name>
+     <target_name>ITEM_PRICE</target_name>
+     <target_data_type>STRING</target_data_type>
+     <list_view_position>C005</list_view_position>
+  </t2>
+  <t2>
+     <excel_column_name>Base UOM</excel_column_name>
+     <target_name>BASE_UOM</target_name>
+     <target_data_type>STRING</target_data_type>
+     <list_view_position>C006</list_view_position>
+  </t2>
+  <t2>
+     <excel_column_name>Base Conversion to Alternate UOM</excel_column_name>
+     <target_name>UOM</target_name>
+     <target_data_type>STRING</target_data_type>
+     <list_view_position>C007</list_view_position>
+  </t2>
+</UserConfig>
