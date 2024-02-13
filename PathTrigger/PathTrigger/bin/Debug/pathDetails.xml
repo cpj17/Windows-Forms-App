@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <t2>
+    <id>310520230559131556</id>
+    <path>\\192.168.0.57\inetpub\PRDG11EOSV03WD\PRDG11EOSV03WB_ADMIN&lt;</path>
+    <display_name>G11 Admin Portal Local Dep</display_name>
+  </t2>
+  <t2>
+    <id>310520230559433197</id>
+    <path>\\192.168.0.53\5000 Application Exe\PRDG11EOSV05APPWD_LOCAL</path>
+    <display_name>Local G11 WD</display_name>
+  </t2>
+  <t2>
+    <id>310520230559475345</id>
+    <path>\\192.168.0.53\6000 Projects\Blazor Training\R and Works\Documents\HTML &amp; JS\Documents</path>
+    <display_name>ALPS Docs</display_name>
+  </t2>
+  <t2>
+    <id>310520230559538634</id>
+    <path>\\192.168.0.57\inetpub\HTML</path>
+    <display_name>ALPS HTML Local Dep</display_name>
+  </t2>
+  <t2>
+    <id>310520230600005151</id>
+    <path>\\192.168.0.53\6000 Projects\6113 NLBSG\NLB_WMS Performance Report\17-05-2023</path>
+    <display_name>NLB WMS Doc</display_name>
+  </t2>
+  <t2>
+    <id>310520230600040641</id>
+    <path>https://devscm.gurusoft.com.sg/PRDG11EOSV03WD/STSSG/</path>
+    <display_name>STSSG - Gurusoft Links</display_name>
+  </t2>
+  <t2>
+    <id>310520230600078037</id>
+    <path>\\192.168.0.57\Gurusoft\STS HTML</path>
+    <display_name>STS HTML 57</display_name>
+  </t2>
+  <t2>
+    <id>310520230600113447</id>
+    <path>\\192.168.0.53\6000 Projects\6137 STS WMS &amp; TMS Upgrade\Documents</path>
+    <display_name>STS DOC</display_name>
+  </t2>
+  <t2>
+    <id>310520230722090224</id>
+    <path>\\192.168.0.57\inetpub\wwwroot\TEST STS</path>
+    <display_name>STS HTML Local Dep</display_name>
+  </t2>
+  <t2>
+    <id>020620230118152783</id>
+    <path>\\192.168.0.57\GurusoftLogs\PRDG11EOSV05_MOBILE\DB</path>
+    <display_name>STS LOG</display_name>
+  </t2>
+  <t2>
+    <id>110720231013500971</id>
+    <path>\\192.168.0.53\6000 Projects\6137 STS WMS &amp; TMS Upgrade\Documents\STS OMS Portal</path>
+    <display_name>STS OMS Portal Doc</display_name>
+  </t2>
+  <t2>
+    <id>170720230141022301</id>
+    <path>\\192.168.0.53\6000 Projects\Blazor Training\R and Works\Documents\HTML &amp; JS\ALPS CR</path>
+    <display_name>ALPS CR</display_name>
+  </t2>
+  <t2>
+    <id>290720231057410830</id>
+    <path>\\192.168.0.53\6000 Projects\6134 ALPS\Documents\OMS Portal\ALPS CR</path>
+    <display_name>ALPS Project CR</display_name>
+  </t2>
+  <t2>
+    <id>250820231014158895</id>
+    <path>\\192.168.0.53</path>
+    <display_name>53</display_name>
+  </t2>
+</NewDataSet>
